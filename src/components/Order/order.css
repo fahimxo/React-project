@@ -1,0 +1,14 @@
+.order-list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: -39px;
+
+}
+.order-list li{
+    padding: 7px 10px;
+    font-size: 1.2rem;
+
+}

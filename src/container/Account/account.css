@@ -1,0 +1,38 @@
+.account{
+    display: flex;
+    width: 70rem;
+    background-color: #fafaff;
+    flex-flow: column;
+    box-shadow: 0 0 25px 5px rgba(0, 0, 0, 0.07);
+    align-items: center;
+    border-radius: 5px;
+    padding: 32px 0;
+    margin: auto;
+}
+form{
+    width: 50%;
+    text-align: center;
+ 
+}
+input{
+    border:  1px solid #e1bee7;
+    border-radius: 10px;
+    outline: none;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    margin: 20px 0 !important;
+}
+.header{
+    color: #6a1b6a;
+}
+small{
+    position: relative;
+    display: inline-block;
+    top: -17px;
+    left: -185px;
+    color: #ff2d2d;
+    margin: 0;
+    padding: 0;
+
+}

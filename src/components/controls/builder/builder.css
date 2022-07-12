@@ -1,0 +1,28 @@
+.builder{
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+.builder button{
+    font: inherit;
+    padding: 5px;
+    border: none;
+    margin: 0 12px;
+    width: 80px;
+    background-color: #9c27b0;
+    color: #fefeff;
+    display: block;
+    border-radius: 3px;
+    outline: none;
+
+}
+.builder .remove{
+    background-color: #ef5b21;
+}
+.builder div{
+    color: #8e24aa;
+    margin: 0 19px;
+    font-size: 24px;
+}
